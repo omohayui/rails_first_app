@@ -1,6 +1,6 @@
 == README
 
-https://pure-dawn-3592.herokuapp.com/
+https://rails-first-app-201502.herokuapp.com/
 
 Things you may want to cover:
 
