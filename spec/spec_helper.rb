@@ -54,10 +54,9 @@ require 'rspec/rails'
 require 'rspec/autorun'
 require 'capybara/rspec'
 require 'capybara/rails'
-#include Capybara::DSL
 
 RSpec.configure do |config|
-      config.include Capybara::DSL, :type => :feature
+    config.include Capybara::DSL
 end
 
 # Requires supporting ruby files with custom matchers and macros, etc,
